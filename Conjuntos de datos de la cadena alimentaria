@@ -1,0 +1,14 @@
+La cadena alimentaria está formada por varias etapas, desde las materias primas hasta los productos finales. Se han recogido diferentes conjuntos de datos correspondientes a cada una de las etapas. A continuación se detalla cada conjunto de datos y la dirección web de la que se ha extraído.
+
+- Conjuntos de datos de los precios percibidos por los agricultores de la Comunidad Valenciana por semanas. 
+(https://portalagrari.gva.es/es/pye/precios-agrarios)
+
+- Conjunto de datos con los precios percibidos por los agricultores y ganaderos españoles en el periodo de tiempo de enero de 2021 a noveimbre de 2023.
+(https://www.mapa.gob.es/es/estadistica/temas/estadisticas-agrarias/economia/precios-percibidos-pagados-salarios/precios-percibidos-por-los-agricultores-y-ganaderos/default.aspx)
+
+- Conjunto de datos con ingredientes perjudiciales de la AESAN. 
+(https://www.aesan.gob.es/AECOSAN/web/seguridad_alimentaria/subseccion/limites_maximos_BD.htm)
+
+- Conjunto de datos con la información de los productos introducidos por los usuarios de la app OpenFoodFacts. Este conjunto de datos se extrae a partir del buscador qeu aparece en la web mencionada posteriormente, filtrando aquellos productos interesantes para el estudio que se ha realizado.
+(https://world.openfoodfacts.org/cgi/search.pl)
+
